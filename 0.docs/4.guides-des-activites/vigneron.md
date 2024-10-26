@@ -3,7 +3,7 @@ Le vigneron est une activité que vous pouvez faire pour produire différents ty
 
 #### **Emplacement**
 ![Emplacement Vigneron](/assets/emplacementvigneron1.png)
-![Emplacement Vigneron](https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png)
+![Emplacement Vigneron](https://i.imgur.com/zgFCJmR.png)
 [[https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png|alt=emplacementvigneron1]]
 https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png
 
