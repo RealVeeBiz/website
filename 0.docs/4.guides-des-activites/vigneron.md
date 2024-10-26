@@ -3,6 +3,7 @@ Le vigneron est une activité que vous pouvez faire pour produire différents ty
 
 #### **Emplacement**
 ![Emplacement Vigneron](https://i.imgur.com/XsivpZU.png)
+![Imgur](https://i.imgur.com/nlDbeEj.png)
 
 #### **Étape 1 : Récolte**
 ![Récolte Vigneron](https://i.imgur.com/ZIuZZWK.png)
