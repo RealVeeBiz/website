@@ -5,10 +5,11 @@ Le vigneron est une activité que vous pouvez faire pour produire différents ty
 ![Emplacement Vigneron](https://i.imgur.com/XsivpZU.png)
 
 #### **Étape 1 : Récolte**
+![Récolte Vigneron](https://i.imgur.com/ZIuZZWK.png)
 
 #### **Étape 2 : Traitement**
-
-
+![Traitement Vigneron](https://i.imgur.com/zrUQNZG.png)
+![Traitement Vigneron](https://i.imgur.com/EGmlmxe.png)
 
 #### **Étape 3 : Vente**
 
