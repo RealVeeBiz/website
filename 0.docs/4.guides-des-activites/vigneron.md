@@ -3,7 +3,7 @@ Le métier de vigneron libre ou vous pouvez produire différents type de produit
 
 Emplacement
 ![Emplacement Vigneron](/assets/emplacementvigneron1.png)
-[[https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png]]
+[[https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png|alt=emplacementvigneron1]]
 https://github.com/AscendiaRP/website/blob/main/assets/emplacementvigneron1.png
 Étape 1 : Récolte
 
