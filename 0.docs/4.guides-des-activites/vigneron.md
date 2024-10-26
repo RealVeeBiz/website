@@ -1,5 +1,5 @@
 #### **Vigneron**
-L'activité de vigneron ou vous pouvez produire différents type de produits qui sont nécessaire pour les entreprises tel que les restaurants et les bars. 
+Le vigneron est une activité que vous pouvez faire pour produire différents type de produits qui sont nécessaire pour les restaurants et les bars. Vous pourrez vendre vos items directement à un commerce ou un PNJ.
 
 #### **Emplacement**
 ![Emplacement Vigneron](/assets/emplacementvigneron1.png)
