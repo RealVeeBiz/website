@@ -1,5 +1,5 @@
 Vigneron
-Le métier de vigneron libre ou vous pouvez produire différents type de produits fait à partir de raisins qui sont nécessaire pour les entreprises tel que les restaurants et les bars. 
+L'activité de vigneron ou vous pouvez produire différents type de produits qui sont nécessaire pour les entreprises tel que les restaurants et les bars. 
 
 Emplacement
 ![Emplacement Vigneron](/assets/emplacementvigneron1.png)
