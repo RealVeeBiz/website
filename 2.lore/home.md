@@ -8,5 +8,3 @@ navigation: false
 ---
 
 # Lore
-
-Écrire le lore ici
