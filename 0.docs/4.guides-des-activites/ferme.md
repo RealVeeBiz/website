@@ -9,4 +9,4 @@ La chasse est une activité disponible à tous qui vous permet d'obtenir divers 
 ![Emplacement ferme2](https://i.imgur.com/CXaQXA3.png)
 
 #### **Vente**
-[Vente ferme](https://i.imgur.com/kXJnKjt.png)
+![Vente ferme](https://i.imgur.com/kXJnKjt.png)
